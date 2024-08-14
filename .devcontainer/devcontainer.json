@@ -1,7 +1,3 @@
-"name": "lite-desktop",
-"image": "mcr.microsoft.com/devcontainers/base:ubuntu",  // Any generic, debian-based image.
 "features": {
-    "ghcr.io/devcontainers/features/desktop-lite:1": {
-        "version": "latest"
-    }
+    "ghcr.io/devcontainers/features/desktop-lite:1": {}
 }
