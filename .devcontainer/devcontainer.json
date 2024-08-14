@@ -1,3 +1,9 @@
-"features": {
-    "ghcr.io/devcontainers/features/desktop-lite:1": {}
+{
+  "name": "lite-desktop",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/desktop-lite:1": {
+      "version": "latest"
+    }
+  }
 }
